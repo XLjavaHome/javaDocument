@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="java-statements" deleted="false" description="try-finally" enabled="true" name="try-finally">try{&#13;
+	${line_selection}&#13;
+} finally {&#13;
+	${cursor}&#13;
+}</template></templates>
